@@ -1,6 +1,8 @@
 # WColors-Theme
 UX theme for Windows 10 using improvements to the High Contrast theme. Supports custom color schemes, including dark and light.
 
+# This repo has been put on hold due to some issues with the msstyles editor. 
+
 ![Theme](https://user-images.githubusercontent.com/61938331/103427446-1d5d6a80-4b8f-11eb-9b94-8f34f1a3142f.png)
 
 ## Installation
